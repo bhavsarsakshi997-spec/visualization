@@ -16,6 +16,8 @@ The program allows users to:
 
 The program uses Pandas for data analysis and Matplotlib for data visualization.
 
+Struct image:<img width="1024" height="1536" alt="project" src="https://github.com/user-attachments/assets/625fdc06-a0b0-41e2-8ef5-91574ddfedec" />
+
 2. Modules Used
 Pandas
 
@@ -34,6 +36,8 @@ It is used in this project for:
 Matplotlib is a Python library used for creating graphs and charts.
 
 It is used in this project to create:
+
+Matplotlib image:<img width="1536" height="1024" alt="mataplot" src="https://github.com/user-attachments/assets/8ea2bb5c-7181-43ce-bac0-2fd9f67cee56" />
 
 1. Bar Plot
 2. Line Plot
@@ -116,6 +120,15 @@ This function saves the generated visualization as an image file such as PNG.
 8. Exit
 
 This function terminates the program when the user selects the Exit option.
+
+
+1.Input image:<img width="836" height="758" alt="Screenshot 2026-08-26 194249" src="https://github.com/user-attachments/assets/0e750210-45f3-48d1-81aa-f7199e4dddd8" />
+
+
+2.Output image:<img width="822" height="792" alt="image" src="https://github.com/user-attachments/assets/8ca78d19-f3a2-4d21-8cc3-d1d1fd45ffff" />
+
+
+3.Video link:
 
 4. Advantages
 1. Easy to use because of the menu-driven interface.
