@@ -128,7 +128,7 @@ This function terminates the program when the user selects the Exit option.
 2.Output image:<img width="822" height="792" alt="image" src="https://github.com/user-attachments/assets/8ca78d19-f3a2-4d21-8cc3-d1d1fd45ffff" />
 
 
-3.Video link:
+3.Video link: https://drive.google.com/file/d/143gB_dvToF33FnDi3rzaCdXe6f-seTx4/view?usp=drive_link
 
 4. Advantages
 1. Easy to use because of the menu-driven interface.
